@@ -3,17 +3,22 @@
 Few reasons why I got rejected in interviews and what I learned from my rejections. This might help you to get yourself ready before the interview. Please do share your interview experiences.
 
 1st interview:
+
 1) They might even ask if we have gone through any research paper lately to see how enthusiastic we are to update ourselves. I didn't go through any research paper then. So it is better to find time to go through research papers.
 2) I told xyz is my favorite algorithm but failed to explain in detail about it. Have a good idea of other concepts and deep knowledge of our favorite concepts.
 
 2nd interview:
+
 I was notified about the interview just 3 hours before. I was not prepared for it at all.
 1) We should not think if we apply for the job now, they will schedule after 3-4 days and we can prepare in these 3-4 days. They can schedule at any time.
 We should always be prepared. At least have an idea of what we have learned so far. This is better than saying I have not revised anything yet.
 
 3rd interview:
+
 I spent 4 days on revision and I was well prepared with the concepts this time. But the whole game turned to reverse. Not a single question was asked from the concepts. They asked only about my projects and this time I was not prepared with it.
+
 1) I managed only to tell the objective, what is it about, and which algorithm I used in 2 minutes hardly. This was the reason for my rejection.
+
 We should explain our projects in details like
 -> what is the project all about and objective.
 -> What analysis we made from the EDA.
